@@ -8,6 +8,8 @@ Trần Duy Tuấn – MSSV: 25120463
 
 Võ Nguyên Oánh – MSSV: 25120407
 
+User's name đại diện nộp bài: tdtuan1706
+
 I. Thuật toán cài đặt tốt nhất ở lần chạy thứ nhất
 1. Bài A:
 - Thuật toán sử dụng Radix Sort.
