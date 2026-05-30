@@ -1,6 +1,6 @@
 Tên môn: Cấu trúc dữ liệu và giải thuật
 
-Thời gian học: Học kì 2 - 2026
+Thời gian học: Học kì 2 / 2025-2026
 
 Họ và tên sinh viên:
 
