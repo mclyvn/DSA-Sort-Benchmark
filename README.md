@@ -82,9 +82,9 @@ II. Cách thức sinh test case:
 	+ Thuật toán mục tiêu: Tất cả.
 	+ Lý do: Kiểm tra khả năng hoạt động tổng quát của thuật toán.
 - Test 2:
-	+ Cách sinh test: Bộ chuỗi được sắp xếp tăng dần theo từ điển.
-	+ Thuật toán mục tiêu: QuickSort (áp dụng chọn pivot ở đầu hoặc cuối mảng).
-	+ Lý do: Việc lấy trúng cực tiểu hoặc cực đại làm pivot sẽ khiến mảng luôn bị phân hoạch về một phía, độ phức tạp suy biến thành O(n²)
+	+ Cách sinh test: Bộ chuỗi đan xen giữa độ dài 10 và 100.
+	+ Thuật toán mục tiêu: Tất cả
+	+ Lý do: Kiểm tra khả năng xử lí độ dài của chuỗi
 - Test 3:
 	+ Cách sinh test: Bộ chuỗi được sắp xếp ngược (theo từ điển giảm dần).
 	+ Thuật toán mục tiêu: Insertion Sort.
